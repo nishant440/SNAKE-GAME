@@ -1,15 +1,35 @@
 {
   "files": {
-    "main.css": "/SNAKE-GAME/static/css/main.e88ef17a.css",
-    "main.js": "/SNAKE-GAME/static/js/main.ab628288.js",
-    "static/js/453.028da8af.chunk.js": "/SNAKE-GAME/static/js/453.028da8af.chunk.js",
-    "index.html": "/SNAKE-GAME/index.html",
-    "main.e88ef17a.css.map": "/SNAKE-GAME/static/css/main.e88ef17a.css.map",
-    "main.ab628288.js.map": "/SNAKE-GAME/static/js/main.ab628288.js.map",
-    "453.028da8af.chunk.js.map": "/SNAKE-GAME/static/js/453.028da8af.chunk.js.map"
+    "main.css": "/Med-Space/static/css/main.215c018d.css",
+    "main.js": "/Med-Space/static/js/main.286782d3.js",
+    "static/js/239.eab0352a.chunk.js": "/Med-Space/static/js/239.eab0352a.chunk.js",
+    "static/js/213.fc3621de.chunk.js": "/Med-Space/static/js/213.fc3621de.chunk.js",
+    "static/js/667.df274394.chunk.js": "/Med-Space/static/js/667.df274394.chunk.js",
+    "static/js/453.258b012d.chunk.js": "/Med-Space/static/js/453.258b012d.chunk.js",
+    "static/media/cbc.png": "/Med-Space/static/media/cbc.34261847792e0d2316a6.png",
+    "static/media/thyroid.png": "/Med-Space/static/media/thyroid.bfa1d4b8f1712da7c865.png",
+    "static/media/Hemoglobin.png": "/Med-Space/static/media/Hemoglobin.e64d6f046e04f4e1dec7.png",
+    "static/media/ra.png": "/Med-Space/static/media/ra.137336c6001eb6ddeb7c.png",
+    "static/media/hepatitis-B.png": "/Med-Space/static/media/hepatitis-B.edd5881a77ad39525915.png",
+    "static/media/bloodglucose.png": "/Med-Space/static/media/bloodglucose.670cae384ebcabf2e68c.png",
+    "static/media/potassium.png": "/Med-Space/static/media/potassium.6ecebd8bca0360894050.png",
+    "static/media/urinetest.png": "/Med-Space/static/media/urinetest.e2a53404317df4e75d2a.png",
+    "static/media/lipid-profile.png": "/Med-Space/static/media/lipid-profile.ba68627aa36c2495e6f2.png",
+    "static/media/sodium.png": "/Med-Space/static/media/sodium.4d432ff165b132864958.png",
+    "static/media/ecg.png": "/Med-Space/static/media/ecg.d66d9043c0c1b4a1799a.png",
+    "static/media/usg.png": "/Med-Space/static/media/usg.ac11a8c2968ea8ede309.png",
+    "static/media/doctor.png": "/Med-Space/static/media/doctor.6cbd124025d5ece1b2d6.png",
+    "static/media/luson.jpg": "/Med-Space/static/media/luson.34131c31477007e803de.jpg",
+    "index.html": "/Med-Space/index.html",
+    "main.215c018d.css.map": "/Med-Space/static/css/main.215c018d.css.map",
+    "main.286782d3.js.map": "/Med-Space/static/js/main.286782d3.js.map",
+    "239.eab0352a.chunk.js.map": "/Med-Space/static/js/239.eab0352a.chunk.js.map",
+    "213.fc3621de.chunk.js.map": "/Med-Space/static/js/213.fc3621de.chunk.js.map",
+    "667.df274394.chunk.js.map": "/Med-Space/static/js/667.df274394.chunk.js.map",
+    "453.258b012d.chunk.js.map": "/Med-Space/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e88ef17a.css",
-    "static/js/main.ab628288.js"
+    "static/css/main.215c018d.css",
+    "static/js/main.286782d3.js"
   ]
 }
